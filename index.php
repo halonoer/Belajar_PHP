@@ -40,6 +40,7 @@ if(isset($_POST["cari"])){
             <th>NAMA</th>
             <th>Email</th>
             <th>jurusan</th>
+            <th>fakultas</th>
         </tr>
 
         <?php $i = 1; ?>
